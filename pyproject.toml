@@ -51,5 +51,5 @@ dependencies = [
     "zstandard>=0.22.0",
     "airium>=0.2.7",
     "pandas",
-q    "kiara[dev_utils,marimo,jupyter]",
+    "kiara[dev_utils,marimo,jupyter]",
 ]
