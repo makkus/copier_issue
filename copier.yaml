@@ -11,4 +11,4 @@ _exclude:
   - "__pycache__"
   - ".git"
   - ".DS_Store"
-  - ".venv/**"
+  - ".venv/"
